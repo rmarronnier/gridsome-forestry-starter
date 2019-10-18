@@ -1,6 +1,6 @@
 ---
 date: 2019-10-18
-thumbnail: "/uploads/clara.png"
+thumbnail: "/uploads/clara.svg"
 title: clara.pole-emploi.fr
 category: Freelance work
 categories:
